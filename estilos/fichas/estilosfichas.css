@@ -1,0 +1,68 @@
+/* estilosfichas.css */
+
+/* Estilização do corpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilização do título principal */
+h1 {
+    background-color:#6B6C68;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.titulo{
+    margin: 0 40px;
+}
+
+/* Estilização das seções */
+.section {
+    background: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilização dos subtítulos */
+h2 {
+    color: #333;
+    
+    padding-bottom: 10px;
+    margin: 0 0px;
+}
+
+/* Estilização dos parágrafos */
+p {
+    color: #555;
+    margin: 0 40px;
+    flex-wrap: wrap;
+}
+
+/* Estilização das listas */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+/* Estilização das listas dentro das seções */
+.section ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização das linhas horizontais */
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    margin: 20px 0;
+}
